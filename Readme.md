@@ -1,4 +1,4 @@
-# Byte Pair Encoder Tokenizer
+# Byte Pair Encoder
 
 Welcome to the Byte Pair Encoder (BPE) project! This repository contains the implementation of a basic and regex based Byte Pair Encoder algorithm, a popular subword tokenization method used in Natural Language Processing (NLP) to efficiently tokenize text data into smaller, more manageable units.
 
